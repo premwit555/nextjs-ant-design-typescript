@@ -1,29 +1,39 @@
-# nextjs-ant-design-typescript
-![GitHub](https://img.shields.io/github/license/gnokoheat/nextjs-ant-design-typescript) ![GitHub top language](https://img.shields.io/github/languages/top/gnokoheat/nextjs-ant-design-typescript) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/gnokoheat/nextjs-ant-design-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/gnokoheat/nextjs-ant-design-typescript)
 
-Next.js + Ant design + Typescript
+1 ข้อมูลเบอร์ 
+- เบอร์
+- วันหมดอายุ
+- ค่าย
 
-![](https://github.com/gnokoheat/nextjs-ant-design-typescript/blob/master/docs/nextjs-antdesign-typescript.gif?raw=true)
+2 ข้อมูล เฟส
+- ชื่อเฟส 
+- email
+- pass
+- id
+- เบอร์
 
-- Including simple structure & layout
+3 ข้อมูล เลขบัญชี บัตร
+- ธนคาร 
+- ชื่อ 
+- เลขบัญชี
+- เบอร์ที่ผูก 
+- user internet
+- pass internet
 
-## Usage
-1. Copy this repository.
-```
-git clone https://github.com/gnokoheat/nextjs-ant-design-typescript
-cd nextjs-ant-design-typescript/
-```
-2. Install dependencies
-```
-yarn install
-```
+- mobile 
+- pin
+- บัตรประชาชน วันเกิด เลข 13 หลัก
 
-3. Run app
-``` bash
-# Dev
-yarn dev
+4 ข้อมูล โดเมน
+- โดเมน 
+- เจ้าของ
+- วันหมดอายุ
+- สถานะ
+- email
 
-# Production
-yarn build
-yarn start
-```
+5 ข้อมูล เซิฟ
+- ip 
+- ขนาด เซิฟ
+- เก็บอะไรบ่าง
+- ราคา
+
+
