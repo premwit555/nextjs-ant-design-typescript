@@ -1,12 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState } from "react"
+import AddCostTable from "../components/Table/AddCostTable"
 
 export default function App() {
-  return (
-    <div></div>
-  )
+     return (
+          <div>
+               <AddCostTable />
+          </div>
+     )
 }
 
 export async function getServerSideProps({ req }) {
-  const headers = req ? req.headers : {};
-  return { props: { headers } }
+     const headers = req ? req.headers : {}
+     return { props: { headers } }
 }

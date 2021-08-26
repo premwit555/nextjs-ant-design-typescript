@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
+    "@ant-design/pro-card": "^1.14.14",
+    "@ant-design/pro-field": "^1.20.0",
+    "@ant-design/pro-table": "^2.50.0",
     "@zeit/next-less": "^1.0.1",
     "antd": "^4.5.2",
     "babel-plugin-import": "^1.13.0",
