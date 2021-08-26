@@ -21,7 +21,8 @@
     "next-images": "^1.4.0",
     "null-loader": "4.0.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-highlight-words": "^0.17.0"
   },
   "devDependencies": {
     "@types/node": "13.13.4",

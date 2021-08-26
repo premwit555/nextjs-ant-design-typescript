@@ -1,8 +1,13 @@
 import React, { useState } from 'react';
+import { EditableTable } from '../components/Table/BankTable';
+
 
 export default function App() {
   return (
-    <div></div>
+    <div>
+		<EditableTable />
+    </div>
+
   )
 }
 
